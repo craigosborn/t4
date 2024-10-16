@@ -1,0 +1,9 @@
+[package]
+name = "t4"
+version = "0.1.0"
+edition = "2021"
+authors = ["Craig Osborn <craig@craigosborn.dev>"]
+description = "Discrete global grid system using tessellated triangles on a tetrahedron"
+license = "MIT"
+
+[dependencies]
